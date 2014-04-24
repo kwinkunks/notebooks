@@ -8,3 +8,4 @@ IPython Notebooks. View them in NBViewer:
 - [Fun with logs](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Fun_with_logs.ipynb) — Haralick textures for log data
 - [Spectral wedge](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Spectral_wedge.ipynb) — A 3D wedge model for spectral reponses
 - [Variable wedge](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Variable_wedge.ipynb) — A 3D wedge model with varying properties
+- [Faster wedges](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Faster_wedges.ipynb) — The sudden realization that I was not exploiting NumPy's fast indexing and vector operations
