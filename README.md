@@ -9,3 +9,4 @@ IPython Notebooks. View them in NBViewer:
 - [Spectral wedge](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Spectral_wedge.ipynb) — A 3D wedge model for spectral reponses
 - [Variable wedge](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Variable_wedge.ipynb) — A 3D wedge model with varying properties
 - [Faster wedges](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Faster_wedges.ipynb) — The sudden realization that I was not exploiting NumPy's fast indexing and vector operations
+- [Matteo's colourmaps for Matplotlib](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Matteo_colourmaps.ipynb) — Matteo Niccoli's awesome colourmaps
