@@ -11,4 +11,4 @@ IPython Notebooks. View them in NBViewer:
 - [Faster wedges](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Faster_wedges.ipynb) — The sudden realization that I was not exploiting NumPy's fast indexing and vector operations
 - [Matteo's colourmaps for Matplotlib](http://nbviewer.org/github/kwinkunks/notebooks/blob/master/Matteo_colourmaps.ipynb) — Matteo Niccoli's awesome colourmaps
 
-See also [Agile's notebooks]()https://github.com/agile-geoscience/notebooks). 
+See also [Agile's notebooks](https://github.com/agile-geoscience/notebooks). 
