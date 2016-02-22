@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import division
-from numpy import polyfit, arange
-
+import numpy as np
 def parabolic(f, x):
     """Quadratic interpolation for estimating the true position of an
     inter-sample maximum when nearby samples are known.
@@ -35,7 +34,7 @@ def parabolic_polyfit(f, x, n):
     n is the number of samples of the curve used to fit the parabola.
 
     """    
-    a, b, c = polyfit(arange(x-n//2, x+n//2+1), f[x-n//2:x+n//2+1], 2)
+    a, b, c = np.polyfit(arange(x-n//2, x+n//2+1), f[x-n//2:x+n//2+1], 2)
     xv = -0.5 * b/a
     yv = a * xv**2 + b * xv + c
     return (xv, yv)

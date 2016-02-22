@@ -1,7 +1,7 @@
 data/out.sgy
 secrets.py
 
-.ipynb*/*
+.ipynb_checkpoints
 .DS_Store
 *.py[cod]
 
