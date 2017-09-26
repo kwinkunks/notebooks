@@ -46,3 +46,10 @@ Note also that adding the flags `-N -f` will provide a non-interactive session t
 ```
    
 Copy the link and paste it into your browser. You're done.
+
+
+## Some resources in case you run into trouble
+
+- https://help.ubuntu.com/community/SSH/OpenSSH/PortForwarding
+- https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh
+- https://manas.tungare.name/blog/ssh-port-forwarding-on-mac-os-x/
